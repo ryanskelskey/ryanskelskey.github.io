@@ -4,11 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
----
-
 # Ryan Skelskey
 
-###### Fairfax, CA // (415) 530-8346 // rtskelskey2@gmail.com
+Fairfax, CA // (415) 530-8346 // rtskelskey2@gmail.com
 
 ---
 
