@@ -21,6 +21,10 @@
     &:visited {
         color: $grey-color-dark;
     }
+     &,
+    &:hover {
+        color: $brand-color;
+    }
 }
 
 .site-nav {
