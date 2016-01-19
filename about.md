@@ -42,3 +42,8 @@ working with children in under-served communities or collaborating with
 mental health professionals in residential treatment facilities, Ryan has 
 strived to help make the world a little easier for children and families in 
 need.
+
+<img src="/img/ryan_skelskey.JPG" style="display: block; width:40%; margin: auto 0; height: auto: "/>
+
+
+
